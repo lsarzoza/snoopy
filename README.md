@@ -1,2 +1,0 @@
-# snoopy
-pagina de prueba
